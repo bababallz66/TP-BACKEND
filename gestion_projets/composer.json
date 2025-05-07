@@ -1,0 +1,10 @@
+{
+  "name": "baptiste/gestion_projets",
+  "autoload": {
+    "psr-4": {
+      "Core\\": "app/Core/",
+      "App\\": "app/"
+    }
+  },
+  "require": {}
+}
